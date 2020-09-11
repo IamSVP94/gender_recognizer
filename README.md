@@ -1,5 +1,5 @@
 # gender_recognizer
-The program recognizes gender by face photo
+## The program recognizes gender by face photo
 Для ознакомления с алгоритмом разработки, можете посмотреть <a href='https://github.com/IamSVP94/gender_recognizer/blob/master/NtechLab.ipynb'>тетрадку</a>.
 
 Для работы скрипта для использования нейросети (файл process.py) необходимо установить некоторые библиотеки и расположить его в одной директории с файлом net.pt (файл с сохраненной моделью Pytorch).
